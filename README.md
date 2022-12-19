@@ -30,7 +30,7 @@ Used PySpark to perform statistical analysis and determine if the vine reviews w
 # Summary 
 
 Summary statistics analysis it shows that there could be bias among "Star Ratings" given the quantities of "viner" and "non-viner". 
-only 94 records that did have vine reviews compred to high number about 40,471 records that did not have vine reviews.
+Only 94 records that did have vine reviews compred to high number about 40,471 records that did not have vine reviews.
 Next, I calculated the percentage of 5-star ratings for both groups. 
 51.06% of reviews that were part of the vine program gave a 5-star rating. In comparison, 38.70% of reviewers that were not part of the vine program also gave a 5-star rating. 
 Based on these numbers there is the possibility of biased in the Vine/Star-Rating reviews.
